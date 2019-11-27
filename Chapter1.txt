@@ -1,4 +1,1 @@
-Here is my first VIM and Git test file 
-Thank you!!!
-
-`
+Hello World!
